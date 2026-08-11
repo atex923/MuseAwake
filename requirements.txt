@@ -1,0 +1,9 @@
+# MouseAwake V0.5.4
+# Runtime dependencies:
+# No third-party Python packages are required.
+#
+# Windows + Python standard library only:
+# ctypes, tkinter, math, os, random, sys, threading, time, typing
+#
+# Optional build tool:
+# nuitka
