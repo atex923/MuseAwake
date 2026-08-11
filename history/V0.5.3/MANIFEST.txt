@@ -1,0 +1,12 @@
+﻿README_CODEX.md
+docs/CODEX_HANDOFF.md
+docs/CODEX_START_HERE.md
+docs/NEXT_TASK.md
+docs/PROJECT_HISTORY.md
+requirements.txt
+scripts/build_nuitka_onefile.bat
+scripts/run_pyw.bat
+scripts/syntax_check.bat
+source/MouseAwake_V0.5.3.py
+source/MouseAwake_V0.5.3.pyw
+source/imports_detected.txt
