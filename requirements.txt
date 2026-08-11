@@ -1,4 +1,4 @@
-# MouseAwake V0.5.4
+# MouseAwake V0.5.5
 # Runtime dependencies:
 # No third-party Python packages are required.
 #

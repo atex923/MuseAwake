@@ -1,16 +1,16 @@
-﻿# MouseAwake V0.5.4 — Codex 接手起點
+﻿# MouseAwake V0.5.5 — Codex 接手起點
 
 ## 主線版本
-- 目前版本：`V0.5.4`
-- 主程式：`source/MouseAwake_V0.5.4.pyw`
-- 除錯用副本：`source/MouseAwake_V0.5.4.py`
+- 目前版本：`V0.5.5`
+- 主程式：`source/MouseAwake_V0.5.5.pyw`
+- 除錯用副本：`source/MouseAwake_V0.5.5.py`
 - 平台：Windows
 - GUI：Tkinter
 - 外部套件：無
 - 火焰圖案：完全由 Python Canvas 繪製，不載入外部 PNG
 
 ## Codex 接手原則
-1. 以 `MouseAwake_V0.5.4.pyw` 為唯一主線。
+1. 以 `MouseAwake_V0.5.5.pyw` 為唯一主線。
 2. 修改前先保留既有功能，不要因重構移除任何已完成行為。
 3. 每次修改後先做 Python 語法檢查。
 4. Windows API / ctypes 結構修改後，要特別留意 32/64 位元相容性。
@@ -58,7 +58,7 @@ FLAME_SHIFT_SEQUENCE = (
 ```
 
 ## 建議第一步
-在 Windows 上直接執行 `source/MouseAwake_V0.5.4.pyw`，
+在 Windows 上直接執行 `source/MouseAwake_V0.5.5.pyw`，
 先確認：
 1. 圓形碼表正常。
 2. 系統匣正常。

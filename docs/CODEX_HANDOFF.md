@@ -86,6 +86,10 @@ Windows API 只加入滑鼠穿透相關 extended style。
 tray thread 收尾。火焰網格計算也整理成較少重複屬性讀取，
 輪次顯示改為跟隨 `FLAME_SHIFT_SEQUENCE` 長度。
 
+### V0.5.4 → V0.5.5
+升級主線版號與檔名，並同步建立 Google Drive 獨立版本資料夾。
+V0.5.5 不主動改變 runtime 行為。
+
 ## 修改時不要破壞
 - `GetTickCount64` 必須從 `kernel32` 呼叫。
 - 火焰覆蓋層不要再次自行加入 `WS_EX_LAYERED`。

@@ -1,6 +1,6 @@
 ﻿# -*- coding: utf-8 -*-
 """
-MouseAwake V0.5.4
+MouseAwake V0.5.5
 Windows 專用－圓形碼表介面
 
 功能：
@@ -26,6 +26,9 @@ V0.5.4：
 - 補齊 Windows message loop 的 ctypes 函式宣告。
 - 關閉程式時等待 tray thread 收尾，降低系統匣圖示殘留機率。
 - 整理火焰網格計算，減少重複屬性讀取並讓輪次顯示跟隨設定值。
+
+V0.5.5：
+- 升級版號與主程式檔名，對應雲端硬碟獨立版本資料夾同步。
 """
 
 from __future__ import annotations
@@ -44,7 +47,7 @@ from typing import Callable, Optional
 
 
 APP_NAME = "MouseAwake"
-VERSION = "V0.5.4"
+VERSION = "V0.5.5"
 
 IDLE_SECONDS = 180
 CHECK_INTERVAL_MS = 500

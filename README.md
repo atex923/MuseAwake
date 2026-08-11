@@ -15,18 +15,18 @@ MuseAwake repo 目前收錄的主程式是 MouseAwake：一個 Windows 專用的
 
 ## 目前版本
 
-`V0.5.4`
+`V0.5.5`
 
 主程式：
 
 ```text
-source/MouseAwake_V0.5.4.pyw
+source/MouseAwake_V0.5.5.pyw
 ```
 
 除錯用副本：
 
 ```text
-source/MouseAwake_V0.5.4.py
+source/MouseAwake_V0.5.5.py
 ```
 
 ## 執行方式
@@ -40,7 +40,7 @@ scripts\run_pyw.bat
 或手動執行：
 
 ```bat
-pyw source\MouseAwake_V0.5.4.pyw
+pyw source\MouseAwake_V0.5.5.pyw
 ```
 
 ## 檢查與打包

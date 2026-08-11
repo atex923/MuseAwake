@@ -3,7 +3,7 @@ setlocal
 cd /d "%~dp0..\source"
 
 echo ========================================
-echo MouseAwake V0.5.4 - Nuitka Onefile Build
+echo MouseAwake V0.5.5 - Nuitka Onefile Build
 echo ========================================
 echo.
 
@@ -12,8 +12,8 @@ py -m nuitka ^
   --windows-console-mode=disable ^
   --enable-plugin=tk-inter ^
   --assume-yes-for-downloads ^
-  --output-filename=MouseAwake_V0.5.4.exe ^
-  "MouseAwake_V0.5.4.pyw"
+  --output-filename=MouseAwake_V0.5.5.exe ^
+  "MouseAwake_V0.5.5.pyw"
 
 echo.
 if errorlevel 1 (
