@@ -1,4 +1,4 @@
-# MouseAwake V0.5.6 Codex Transfer
+# MouseAwake V0.5.5 Codex Transfer
 
 Codex 請先閱讀：
 
@@ -11,7 +11,7 @@ Codex 請先閱讀：
 - `requirements.txt`：Runtime 無第三方套件
 
 ## 主程式
-`source/MouseAwake_V0.5.6.pyw`
+`source/MouseAwake_V0.5.5.pyw`
 
 ## 狀態
 Python 語法已檢查通過。

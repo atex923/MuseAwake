@@ -6,6 +6,7 @@
 
 - `V0.5.3`：原始 Codex transfer 交接包。
 - `V0.5.4`：首次整理進 GitHub repo 的版本。
+- `V0.5.5`：主線版號與檔名升級，並建立 Google Drive 獨立版本資料夾。
 
 ## 目前主線
 
